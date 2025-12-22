@@ -1,0 +1,14 @@
+{
+  "name": "repro-repo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirkwaiblinger/repro-repo.git"
+  },
+  "type": "module",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "9.39.2"
+  }
+}
