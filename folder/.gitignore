@@ -1,1 +1,2 @@
-ignored-by-nested-gitignore.js
+# This syntax ignores files relative to THIS gitignore
+/ignored-by-nested-gitignore.js

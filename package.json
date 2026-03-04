@@ -2,9 +2,11 @@
   "name": "repro-eslint-rewrite-329",
   "type": "module",
   "scripts": {
+    "prepare": "cp folder/file.js folder/ignored-by-root-gitignore.js && cp folder/file.js folder/ignored-by-nested-gitignore.js",
     "lint": "eslint"
   },
   "devDependencies": {
+    "@eslint/compat": "2.0.2",
     "eslint": "10.0.2"
   }
 }
