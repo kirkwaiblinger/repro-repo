@@ -1,0 +1,10 @@
+{
+  "name": "repro-eslint-rewrite-329",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "10.0.2"
+  }
+}
