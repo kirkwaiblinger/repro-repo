@@ -1,6 +1,6 @@
 # Repro for eslint/rewrite#329
 
-[https://github.com/eslint/rewrite/issues/329](eslint/rewrite#329)
+[eslint/rewrite#329](https://github.com/eslint/rewrite/issues/329)
 
 ## To repro
 
