@@ -1,0 +1,15 @@
+{
+  "name": "repro-repo-eslint-config-js-cjs",
+  "description": "Repo for storing reproductions of issues/bugs",
+  "homepage": "https://github.com/kirkwaiblinger/repro-repo#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirkwaiblinger/repro-repo.git"
+  },
+  "scripts": {
+    "test": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "10.3.0"
+  }
+}
