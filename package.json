@@ -1,0 +1,25 @@
+{
+  "name": "repro-repo",
+  "version": "1.0.0",
+  "description": "Repo for storing reproductions of issues/bugs",
+  "homepage": "https://github.com/kirkwaiblinger/repro-repo#readme",
+  "bugs": {
+    "url": "https://github.com/kirkwaiblinger/repro-repo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirkwaiblinger/repro-repo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node eslint.config.mjs"
+  },
+  "devDependencies": {
+    "eslint": "10.6.0",
+    "typescript": "7.0.2",
+    "typescript-eslint": "8.63.0"
+  }
+}

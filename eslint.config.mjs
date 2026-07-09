@@ -1,0 +1,1 @@
+import tseslint from 'typescript-eslint';
